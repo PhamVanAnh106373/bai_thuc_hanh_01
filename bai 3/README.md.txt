@@ -1,0 +1,1 @@
+Nhập 1 mảng số nguyên, tìm phần tử lớn nhất
